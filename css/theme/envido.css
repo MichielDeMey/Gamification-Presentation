@@ -23,6 +23,10 @@ body {
   background-size: cover;
 }
 
+table {
+  width: 100%;
+}
+
 .banner body {
   background-image: url(../../assets/envido-banner-huge.jpg);
 }
