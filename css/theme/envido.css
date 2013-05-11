@@ -27,6 +27,10 @@ table {
   width: 100%;
 }
 
+.reveal table tr td {
+  text-align: center;
+}
+
 .banner body {
   background-image: url(../../assets/envido-banner-huge.jpg);
 }
